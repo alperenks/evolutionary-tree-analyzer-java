@@ -55,4 +55,4 @@ Run `1` first to load `data/treeoflife_nodes.csv` and `data/treeoflife_links.csv
 - [ ] Simple Swing/JavaFX visualization
 
 ## License
-MIT (change if you prefer).
+MIT
